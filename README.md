@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okaforamara
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics course on coursera
+- 👀 I’m interested in data analytics and python
+- 🌱 I’m currently learning learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
